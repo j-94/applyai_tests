@@ -12,7 +12,7 @@ create a template that can be reused for ongoing projects
 ### Tests 
 
 - [ ] clever-deductions: set up tool use [/tooluse]
-- 
+- _composio_ : composio.io seems to be providing auth. 
 
 ### Infrastructure choices
 
@@ -24,6 +24,7 @@ for example -
   combining (rowboat)[https://github.com/rowboatlabs/rowboat] and (docetl)[https://github.com/ucbepic/docetl]
   with a shared filesystem and interopterbility using a orchestrating agent - presents a paradigm of _agent controlled user defined workflows_ 
   - could this be done automatically, what architectural and infra decsions should i make?
+      - _we could use screen use agents_ : start vm, download pakages, playwrite automation or nlweb or etc,
 
 
 ### Docs
