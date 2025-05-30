@@ -11,8 +11,8 @@ create a template that can be reused for ongoing projects
 
 ### Tests 
 
-- [ ] How will we operate?
-
+- [ ] clever-deductions: set up tool use [/tooluse]
+- 
 
 ### Infrastructure choices
 
