@@ -1,5 +1,0 @@
-# Clever Deductions
-
-create a mcp chat interface 
-the interface should include the functionality of;
-- A "Hub" - UX of urls - a user can oneclick install a mcp server from a list, install there own tool to a mcp server, and recieve user.tooluse.com/{user:tool_key}/sse
