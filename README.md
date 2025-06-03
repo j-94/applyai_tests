@@ -32,7 +32,7 @@ for example -
 ### Docs
 
 - [ ] notes on documentation
-- [ ] set up living documentaion 
+- [ ] set up living documentaion https://platejs.org/docs
 
 
 keywords -
