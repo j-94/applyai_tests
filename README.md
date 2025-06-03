@@ -46,6 +46,8 @@ https://www.hud.so/
 https://www.trycua.com/
 https://developers.cloudflare.com/changelog/2025-05-28-playwright-mcp/
 
+https://www.hcompany.ai/surfer-h
+
 # Pages 
 
 ## Clever Deductions
