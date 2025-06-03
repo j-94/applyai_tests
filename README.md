@@ -18,6 +18,11 @@ when desiding what to create makesure you choose the target datastrucutre first 
 
 ### Infrastructure choices
 
+- [ ] all the cli agents will become genral intellegence - never use agents that are not developed by fortune 500 companies os you are building on the ogs
+      - https://deepwiki.com/aws/amazon-q-developer-cli-autocomplete/1-overview
+      - codex
+      - claude-code 
+
 - [ ] notes on operation
 
 UX choice - 
