@@ -5,7 +5,9 @@ templates -
 create a template that can be reused for ongoing projects 
 
 
-
+workflow 
+DOCETL - https://ucbepic.github.io/docetl/best-practices/
+when desiding what to create makesure you choose the target datastrucutre first e.g. directory -> doctetl <- data
 
 ## Table of content
 
